@@ -4,7 +4,6 @@ config.json
 .history
 *venv*
 *.db
-*.md
 *.pyc
 *.png
 *.jpg
