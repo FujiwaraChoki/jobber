@@ -1,0 +1,21 @@
+{
+  "chrome": {
+    "userDataDir": "C:\\Users\\<USERNAME>\\AppData\\Local\\Google\\Chrome\\User Data",
+    "profileName": "Default",
+    "headless": false
+  },
+  "indeed": {
+    "jobQuery": "",
+    "placeQuery": ""
+  },
+  "smtp": {
+    "sender_name": "",
+    "host": "",
+    "port": 587,
+    "secure": false,
+    "auth": {
+      "user": "",
+      "pass": ""
+    }
+  }
+}

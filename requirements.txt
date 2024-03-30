@@ -1,0 +1,10 @@
+g4f
+resumy
+md2pdf
+selenium
+curl_cffi
+termcolor
+markdownify
+platformdirs
+webdriver-manager
+undetected_chromedriver
